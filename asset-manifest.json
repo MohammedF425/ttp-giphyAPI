@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ttp-giphyapi/static/css/main.4841300e.css",
+    "main.js": "/ttp-giphyapi/static/js/main.5b9fb20e.js",
+    "static/js/787.43ae873a.chunk.js": "/ttp-giphyapi/static/js/787.43ae873a.chunk.js",
+    "static/media/logo.svg": "/ttp-giphyapi/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ttp-giphyapi/index.html",
+    "main.4841300e.css.map": "/ttp-giphyapi/static/css/main.4841300e.css.map",
+    "main.5b9fb20e.js.map": "/ttp-giphyapi/static/js/main.5b9fb20e.js.map",
+    "787.43ae873a.chunk.js.map": "/ttp-giphyapi/static/js/787.43ae873a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4841300e.css",
+    "static/js/main.5b9fb20e.js"
+  ]
+}
